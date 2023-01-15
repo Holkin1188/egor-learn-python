@@ -13,6 +13,7 @@ def getHorsOnWeight (weight, horse):
 def getObemOnBaca (obbem, obbBaca):
     return obBaca / obbem
 
+print('123')
 userCar = {
     'car_name': carName,
     'car_model': carModel,
